@@ -7,3 +7,5 @@ Add a new feature.
 Add a second feature.
 
 Add a third feature.
+
+Add a fourth feature.
